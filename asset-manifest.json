@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MentalMaths/static/css/main.5f6fc2ee.chunk.css",
+    "main.js": "/MentalMaths/static/js/main.0f2d0c39.chunk.js",
+    "main.js.map": "/MentalMaths/static/js/main.0f2d0c39.chunk.js.map",
+    "runtime~main.js": "/MentalMaths/static/js/runtime~main.7c4a7bf0.js",
+    "runtime~main.js.map": "/MentalMaths/static/js/runtime~main.7c4a7bf0.js.map",
+    "static/js/2.3296985a.chunk.js": "/MentalMaths/static/js/2.3296985a.chunk.js",
+    "static/js/2.3296985a.chunk.js.map": "/MentalMaths/static/js/2.3296985a.chunk.js.map",
+    "index.html": "/MentalMaths/index.html",
+    "precache-manifest.36728af2fe15d1f6ef9c7ab2589e3163.js": "/MentalMaths/precache-manifest.36728af2fe15d1f6ef9c7ab2589e3163.js",
+    "service-worker.js": "/MentalMaths/service-worker.js",
+    "static/css/main.5f6fc2ee.chunk.css.map": "/MentalMaths/static/css/main.5f6fc2ee.chunk.css.map",
+    "static/media/logo.png": "/MentalMaths/static/media/logo.00e7fb1d.png"
+  }
+}
